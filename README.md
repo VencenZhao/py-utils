@@ -13,6 +13,8 @@
 
 ### log 日志文件
 
+### package_block 小网格图层生成工具
+
 ### package_coor 坐标转换工具
 + `from package_coor.CoorUtils import CoorUtils`
 + `coor = CoorUtils`
@@ -42,7 +44,7 @@
   + gd.initShapeFile()
   + gd.initShapeFileProperties(result)
 
-### package_grid 点网格生成工具
+### package_grid 热点网格生成工具
 
 
 ### package_highvalue 高值区生成工具(TODO)
